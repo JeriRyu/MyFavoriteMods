@@ -38,4 +38,4 @@
 ## 辅助
 [JEI物品管理器](https://www.mcmod.cn/class/459.html)
 
-[玉 Jade](https://www.mcmod.cn/class/3482.html)
+[Hwyla](https://www.mcmod.cn/class/668.html)
