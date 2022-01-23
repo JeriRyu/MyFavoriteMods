@@ -13,9 +13,19 @@
 
 [林业 Forestry](https://www.mcmod.cn/class/5.html)
 
+
 豆腐工艺 TofuCraft
 * [豆腐工艺重置版 TofuCraftReload](https://www.mcmod.cn/class/1633.html)
 * [妖怪之山通用库 MysteriousMountainLib](https://www.mcmod.cn/class/2303.html)
+
+## 环境
+[静谧四季 Serene Seasons](https://www.mcmod.cn/class/1132.html)
+
+[超多生物群系 Biomes O' Plenty](https://www.mcmod.cn/class/108.html)
+
+[真实地形生成 Realistic Terrain Generation](https://www.mcmod.cn/class/635.html)
+
+[气候控制/地理世界 Climate Control/Geographicraft](https://www.mcmod.cn/class/2495.html)
 
 ## 魔法
 [等价交换重制版 ProjectE](https://www.mcmod.cn/class/353.html)
