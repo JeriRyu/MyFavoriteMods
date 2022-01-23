@@ -35,6 +35,9 @@
 
 [中式工坊 Chinese Workshop](https://www.mcmod.cn/class/891.html)
 
+[更好的树叶 Better Foliage](https://www.mcmod.cn/class/1128.html)
+* [Shadowfacts' Forgelin](https://www.mcmod.cn/class/799.html)
+
 ## 辅助
 [JEI物品管理器](https://www.mcmod.cn/class/459.html)
 
