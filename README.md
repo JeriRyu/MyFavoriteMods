@@ -36,6 +36,9 @@
 ## 魔法
 [等价交换重制版 ProjectE](https://www.mcmod.cn/class/353.html)
 
+[夸克 Quark](https://www.mcmod.cn/class/527.html)
+* [AutoRegLib](https://www.mcmod.cn/class/698.html)
+
 ## 装饰
 [镇守府 ChinjufuMod](https://www.mcmod.cn/class/1026.html)
 
