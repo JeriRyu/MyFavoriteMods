@@ -29,6 +29,10 @@
 
 [气候控制/地理世界 Climate Control/Geographicraft](https://www.mcmod.cn/class/2495.html)
 
+[活力之旅 Project: Vibrant Journeys](https://www.mcmod.cn/class/1564.html)
+
+[遍历 Traverse](https://www.mcmod.cn/class/1416.html)
+
 ## 魔法
 [等价交换重制版 ProjectE](https://www.mcmod.cn/class/353.html)
 
