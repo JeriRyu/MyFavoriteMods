@@ -8,6 +8,8 @@
 * [Galacticraft Planets](https://www.mcmod.cn/class/1845.html)
 * [MicdoodleCore](https://www.mcmod.cn/class/1818.html)
 
+[建筑 BuildCraft](https://www.mcmod.cn/class/4.html)
+
 ## 农业
 [潘马斯农场 Pam's HarvestCraft](https://www.mcmod.cn/class/218.html)
 
