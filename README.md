@@ -43,4 +43,6 @@
 ## 辅助
 [JEI物品管理器](https://www.mcmod.cn/class/459.html)
 
+[体素地图 VoxelMap](https://www.mcmod.cn/class/981.html)
+
 [Hwyla](https://www.mcmod.cn/class/668.html)
